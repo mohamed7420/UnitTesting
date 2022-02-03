@@ -1,14 +1,13 @@
 //
-//  LearningUnitTestingTests.swift
+//  SignupFormModelValidatorTests.swift
 //  LearningUnitTestingTests
 //
 //  Created by Mohamed osama on 03/02/2022.
 //
 
 import XCTest
-@testable import LearningUnitTesting
 
-class LearningUnitTestingTests: XCTestCase {
+class SignupFormModelValidatorTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
